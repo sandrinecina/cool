@@ -2,6 +2,7 @@ Packing list
 ------------
 - socks
 - shoes
+- camera
 
 Picnic list
 ------------
